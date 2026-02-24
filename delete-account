@@ -1,17 +1,16 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Solicitud de eliminación de datos - Mi App</title>
+    <title>Solicitud de eliminación de datos - GeoSquad 2</title>
 </head>
 <body>
     <h1>¿Deseas eliminar tu cuenta?</h1>
     <p>Al eliminar tu cuenta, se borrarán de forma permanente:</p>
     <ul>
         <li>Tu perfil de usuario y credenciales de acceso.</li>
-        <li>Tus fotos y archivos almacenados.</li>
         <li>Tu historial de actividad.</li>
     </ul>
-    <p>Para proceder, envía un correo a <strong>soporte@tuapp.com</strong> desde el email asociado a tu cuenta con el asunto "Eliminar mi cuenta".</p>
+    <p>Para proceder, envía un correo a <strong>appvinyote@gmail.com</strong> desde el email asociado a tu cuenta con el asunto "Eliminar mi cuenta".</p>
     <p><em>Plazo máximo de procesamiento: 48-72 horas.</em></p>
 </body>
 </html>
